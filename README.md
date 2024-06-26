@@ -4,7 +4,7 @@ Generic, portable, multi-instance relay driver.
 
 ## Overview
 
-This HAL-mediated custom relay driver permits ease of use portable across many platforms. Though simple GPIO behavior, this driver brings it up into a portable and highly-readable object-oriented programming space.
+This HAL-mediated custom relay driver permits ease of use that is designed to be platform-independent. Though simple GPIO behavior, this driver brings it up into a portable and highly-readable object-oriented programming space.
 
 ## Usage
 
